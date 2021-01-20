@@ -1,6 +1,6 @@
 class Bubble {
     public static void main(String args[]) {
-        String nums[] = { "One", "Three", "A", "18", "Four",
+        String nums[] = { "OneOne", "Three3", "Aa", "18Eighteen", "Four",
                 "Hello, my friend!", "Delete", "Java!!!", "Christmas", "Happy New Year!" };
         int a, b;
         int size;
